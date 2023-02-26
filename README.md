@@ -6,7 +6,7 @@ To use this script, simply run the brutal.py file in your command prompt or term
 ```python brutal.py```
 
 ## Copy code
-This will attempt to extract the contents of a file located in a x directory, using the password list contained in the .txt file in the same directory.
+This will attempt to extract the contents of a file located in a x directory, using the password list contained in the .txt file in x directory.
 
 ## Dependencies
 This script uses the zipfile module that comes pre-installed with Python.
